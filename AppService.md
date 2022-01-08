@@ -1,5 +1,5 @@
 # Create Azure App Service
-[Go Back](README.md)
+[Back to Main](README.md)
 
 This tutorial walks through building an Azure App Service and then synchronizing the app created in the [Basic API Tutorial](BuildAPI.md) to it.
 
@@ -62,4 +62,4 @@ To test this, navigate to your App Services URL (found in the App Services overv
 
 This time, instead of being run from localhost, it's hosted now in Azure!
 
-[Go Back](README.md)
+[Back to Main](README.md)
