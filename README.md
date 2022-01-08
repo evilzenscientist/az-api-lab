@@ -12,5 +12,5 @@ In Azure
 
 Steps:
 1. [Build a .NET Web API on your local machine](BuildAPI.md)
-2. Create an Azure App Service - synchronize your Web API to it
+2. [Create an Azure App Service - synchronize your Web API to it](AppService.md)
 3. Create an API Management instance in front of App Service
